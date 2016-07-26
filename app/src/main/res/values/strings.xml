@@ -1,0 +1,72 @@
+<resources >
+    <string name="app_name">Pra Frente que se Anda - DCE 2105 UFMG</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="vermelho">vermelho</string>
+    <string name="pfa_botton_preto">PFA Botton Preto</string>
+    <string name="pfa_botton_reestrut_dce">PFA Bottom Reestruturação DCE</string>
+    <string name="pfa_botton_assist_estudantil">PFA Bottom Assistência Estudantil</string>
+    <string name="pfa_botton_seguranca">PFA Bottom Segurança</string>
+    <string name="pfa_botton_ens_pes_ext">PFA Bottom Qualidade Ensino, Pesquisa e Extensão</string>
+    <string name="pfa_botton_esporte_universitario">PFA Bottom Esporte Universitário</string>
+    <string name="pfa_botton_inst_autonomas">PFA Bottom Instituições Autonomas</string>
+    <string name="laranja">laranja</string>
+    <string name="amarelo">amarelo</string>
+    <string name="verde">verde</string>
+    <string name="azul">azul</string>
+    <string name="violeta">violeta</string>
+    <string name="title_activity_main">Pra Frente é que se Anda</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="prop_item_01_reestrut_dce">Reestruturação Administrativa do Diretório Central dos Estudantes (DCE), repensando seu modelo de funcionamento</string>
+    <string name="prop_item_02_reestrut_dce">Profissionalização da contabilidade do DCE</string>
+    <string name="prop_item_03_reestrut_dce">Alocação orçamentária segundo cotas de percentual para respectivas áreas (Ex: esportes, auxílio estudantil, integração de alunos, repasse para instituições estudantis)</string>
+    <string name="prop_item_04_reestrut_dce">Criação de fundo orçamentário de emergência</string>
+    <string name="prop_item_05_reestrut_dce">Transparência contábil</string>
+    <string name="prop_item_06_reestrut_dce">Construção da Sede Central do DCE no Campus Pampulha</string>
+    <string name="prop_item_07_reestrut_dce">Consulta popular sobre a utilização da Casa Azul (atual sede social do DCE – no centro da cidade)</string>
+    <string name="prop_item_08_reestrut_dce">Luta pela construção de espaço adequado para a realização de festas por parte das entidades estudantis e comissões de formatura</string>
+    <string name="prop_item_09_reestrut_dce">Proposição de reformulação e atualização do Estatuto do Diretório Central dos Estudantes</string>
+
+    <string name="prop_item_01_instit_autonomas">Lutar pelo reconhecimento das instituições estudantis autônomas, (EJs - Empresas Juniores, Equipes de Competição, entre outras modalidades) como entidades da UFMG</string>
+    <string name="prop_item_02_instit_autonomas">Busca permanente de financiamento interno e externo para o fomento das atividades das Equipes de Competição</string>
+    <string name="prop_item_03_instit_autonomas">Abrir canais de diálogo permanente com a reitoria na busca pela construção/disponibilização de novos espaços para as instituições estudantis autônomas</string>
+    <string name="prop_item_04_instit_autonomas">Padronizar o reconhecimento da carga horária cumprida em serviço pelas instituições estudantis autônomas como crédito complementar para todos os cursos</string>
+    <string name="prop_item_05_instit_autonomas">Garantia de percentual participativo dos integrantes das EJs nas cadeiras de representação discentes dos órgãos deliberativos</string>
+    
+    <string name="prop_item_01_assist_estudantil">Ações afirmativas</string>
+    <string name="prop_item_02_assist_estudantil">PNAES</string>
+    <string name="prop_item_03_assist_estudantil">Incentivo a intercambio</string>
+    <string name="prop_item_04_assist_estudantil">Programas assistenciais</string>
+    <string name="prop_item_05_assist_estudantil">Linha intercampi</string>
+    <string name="prop_item_06_assist_estudantil">Carteira estudantil</string>
+    <string name="prop_item_07_assist_estudantil">Movimento estudantil</string>
+    <string name="prop_item_08_assist_estudantil">Organização da representação</string>
+    <string name="prop_item_09_assist_estudantil">Defesa de estudantes</string>
+    <string name="proposta_01_assist_estudantil">Apoio às ações afirmativas</string>
+    <string name="proposta_02_assist_estudantil">Defender a redução do percentual do Plano Nacional de Assistência Estudantil (PNAES) desviado para fins administrativos</string>
+    <string name="proposta_03_assist_estudantil">Lutar pelo incentivo financeiro via PNAES para mobilidade acadêmica de estudantes assistidos</string>
+    <string name="proposta_04_assist_estudantil">Fomentar debates acerca do custo com os programas assistenciais e os Restaurantes Universitários (RU’s)</string>
+    <string name="proposta_05_assist_estudantil">Debater a implantação da linha intercampi (Direito / Medicina / Arquitetura / Pampulha)</string>
+    <string name="proposta_06_assist_estudantil">Implantar carteirinha estudantil com múltiplas funções: biblioteca, acesso ao Centro Esportivo Universitário (CEU), crédito bandejão e xerox</string>
+    <string name="proposta_07_assist_estudantil">Ampliar diálogo do DCE com coletivos do Movimento Estudantil</string>
+    <string name="proposta_08_assist_estudantil">Estimular a organização dos vários níveis de representação em cada unidade</string>
+    <string name="proposta_09_assist_estudantil">Acompanhar e estruturar defesa dos processos administrativos contra estudantes</string>
+
+    <string name="prop_item_01_esporte_universitario">CEU</string>
+    <string name="prop_item_02_esporte_universitario">Prática esportiva</string>
+    <string name="prop_item_03_esporte_universitario">Recursos para as Atléticas</string>
+    <string name="prop_item_04_esporte_universitario">Olímpiadas universitária</string>
+    <string name="prop_item_05_esporte_universitario">Diretoria liga das Atléticas</string>
+    <string name="proposta_01_esporte_universitario">Exigir um plano imediato para a reforma do Centro Esportivo Universitário</string>
+    <string name="proposta_02_esporte_universitario">Luta pela criação de espaços internos nos Campi para a prática esportiva</string>
+    <string name="proposta_03_esporte_universitario">Repasse de recursos para a Liga das Atléticas mediante análise de projetos como forma de ampliar sua autonomia</string>
+    <string name="proposta_04_esporte_universitario">Realização das Olimpíadas Universitárias Unificadas em parceria com outras universidades do estado</string>
+    <string name="proposta_05_esporte_universitario">Ocupação da Diretoria de Esportes na executiva do DCE por indicação da Liga das Atléticas</string>
+
+    <string name="prop_item_01_seguranca"></string>
+    <string name="proposta_01_seguranca"></string>
+    <string name="title_activity_propostas">Propostas</string>
+</resources>
