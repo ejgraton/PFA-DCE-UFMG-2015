@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splash"
+    android:gravity="center">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent" android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/imVermelho"
+            android:layout_gravity="left"
+            android:background="#ffff0e05"
+            android:contentDescription="@string/vermelho"
+            android:layout_weight="0.166"
+            android:clickable="false"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/imLaranja"
+            android:layout_gravity="left"
+            android:background="#ffffc808"
+            android:contentDescription="@string/laranja"
+            android:layout_weight="0.166"
+            android:visibility="invisible"
+            android:clickable="false" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/imAmarelo"
+            android:background="#fffffe0b"
+            android:contentDescription="@string/amarelo"
+            android:layout_weight="0.166"
+            android:visibility="invisible"
+            android:clickable="false" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/imVerde"
+            android:background="#ff06ff1c"
+            android:contentDescription="@string/verde"
+            android:layout_gravity="left"
+            android:layout_weight="0.166"
+            android:visibility="invisible"
+            android:clickable="false" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/imAzul"
+            android:background="#ff081eff"
+            android:contentDescription="@string/azul"
+            android:layout_gravity="left"
+            android:layout_weight="0.166"
+            android:visibility="invisible"
+            android:clickable="false" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/imVioleta"
+            android:layout_gravity="left"
+            android:background="#ffca0bff"
+            android:contentDescription="@string/violeta"
+            android:layout_weight="0.17"
+            android:clickable="false"
+            android:visibility="invisible" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imPFA"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentStart="false"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/pfa_botton_preto"
+        android:adjustViewBounds="false"
+        android:src="@drawable/pfa_bottom_preto"
+        android:visibility="invisible"
+        android:clickable="true"
+        android:onClick="onClick" />
+
+</RelativeLayout>

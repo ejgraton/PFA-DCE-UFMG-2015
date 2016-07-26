@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="LinhaEntreCirculos">
+        <attr name="raio1" format="integer" />
+        <attr name="xCenter1" format="integer" />
+        <attr name="yCenter1" format="integer" />
+        <attr name="raio2" format="integer" />
+        <attr name="xCenter2" format="integer" />
+        <attr name="yCenter2" format="integer" />
+    </declare-styleable>
+</resources>

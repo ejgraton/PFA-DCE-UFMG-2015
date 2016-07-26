@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PFALayout">
+        <attr name="layout_position">
+            <enum name="center" value="0" />
+            <enum name="over_radius" value="1" />
+            <enum name="dropable" value="2" />
+            <enum name="line" value="3" />
+        </attr>
+        <attr name="angle" format="float" />
+    </declare-styleable>
+</resources>
